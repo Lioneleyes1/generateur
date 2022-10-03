@@ -1,0 +1,41 @@
+
+   body {
+    background-color: azure;
+   }
+  blockquote {
+    width: 80%;
+    height: 80px;
+    margin-block-start:0;
+    border-radius: 28px;
+    padding:100px 5px;
+    background: #0f8291;
+    text-align:center;
+    border-style: inset;
+  }
+  #citations{
+    font-size: large;
+  }
+
+  button{
+    
+    margin-left: 50%;
+    margin-right: 50%;
+    position:left;
+    padding: 28px;
+    border-radius: 16px;
+    border-style: inset;
+    background-color: skyblue; 
+    border-color: none;
+    font-size: 34PX;
+ }
+
+  button:hover{
+    border-radius: 10px;
+    border-style: outset;
+    background-color: salmon; 
+     border: none; 
+  }
+
+ 
+  
+  
